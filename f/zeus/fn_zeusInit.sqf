@@ -43,5 +43,5 @@ f_fnc_zeusCreate = {
 if !(isNil "f_var_AuthorUID") then {
 	["f_ZeusCuratorAuthor",f_var_AuthorUID] spawn f_fnc_zeusCreate;	
 } else {
-	["f_ZeusCuratorAuthor","76561197970695190"] spawn f_fnc_zeusCreate;	
+	["f_ZeusCuratorAuthor","76561198016469048"] spawn f_fnc_zeusCreate;	
 };

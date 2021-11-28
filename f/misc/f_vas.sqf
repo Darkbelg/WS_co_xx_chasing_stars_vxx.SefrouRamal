@@ -30,7 +30,7 @@ if (_flagMarker in allMapMarkers) then {
 	
 	// Get Server Admin List
 	private _incAdmin = false;
-	private _uidList = ["76561197970695190"]; // 2600K
+	private _uidList = ["76561198016469048"]; // 2600K
 	if (!isNil "f_var_AuthorUID") then { _uidList pushBack f_var_AuthorUID };
 	if (!isNil "f_zeusAdminNames") then { if (f_zeusAdminNames isEqualType []) then { _uidList append f_zeusAdminNames }; };
 

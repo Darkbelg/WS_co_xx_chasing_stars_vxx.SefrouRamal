@@ -40,6 +40,7 @@ case "v_tr":
 	_unit addItemCargoGlobal ["ToolKit",1];
 	_unit addItemCargoGlobal [([_binos1,true] call f_fnc_arrayCheck),1];
 	_unit addWeaponCargoGlobal [([_carbine,true] call f_fnc_arrayCheck), 2];	
+	_unit addWeaponCargoGlobal [(["launch_B_Titan_F",true] call f_fnc_arrayCheck), 1];	
 	_unit addMagazineCargoGlobal [_riflemag, 8];
 	_unit addMagazineCargoGlobal [_riflemag_tr, 4];
 	_unit addMagazineCargoGlobal [_glriflemag, 8];
@@ -48,6 +49,7 @@ case "v_tr":
 	_unit addMagazineCargoGlobal [_carbinemag_tr, 4];
 	_unit addMagazineCargoGlobal [_smgmag, 2];
 	_unit addMagazineCargoGlobal [_armag, 2];
+	_unit addMagazineCargoGlobal ["Titan_AA", 3];
 	_unit addMagazineCargoGlobal [_armag_tr, 4];
 	_unit addMagazineCargoGlobal [_MMGmag, 2];
 	_unit addMagazineCargoGlobal [_MMGmag_tr, 2];

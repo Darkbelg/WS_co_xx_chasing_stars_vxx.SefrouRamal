@@ -15,21 +15,32 @@ if (side group player != CIVILIAN) then {
 	// The code below creates the execution sub-section of notes.
 	_exe = player createDiaryRecord ["Diary", ["Mission",format["
 	<br/><font size='18' color='#80FF00'>OBJECTIVES</font>
-	<br/>*** Insert the mission here. ***
+	<br/>Enemy SFIA is hammering the airport with their MLRs.
+	<br/>We know that any helicopter will trigger their retreat.
+	<br/>That is why we want you to make sure they do not in fact live to fight another day.
 	<br/>
 	<br/>%1 <!--- Casualties Cap --->
-	<br/><font size='18' color='#80FF00'>SPECIAL TASKS</font>
-	<br/>*** Insert instructions for specific units here. ***
 	<br/>
 	<br/><font size='18' color='#80FF00'>FRIENDLY FORCES</font>
-	<br/>*** Insert information about friendly forces here.***
+	<br/>We have one Blackfoot to be used as recon callsign Recon. Its primary purpose is to pinpoint where the enemy convoy is.
+	<br/>It is adviced to let it engage when the whole platoon is already in combat.
+	<br/>We have one platoon of Marshall ATGMs callsign IFV.
+	<br/>We have one section of Rhinos callsign Rhino.
+	<br/>We have a logistical unit consting of ammo,repair and refuel trucks. They also have AA launchers in their trucks.
+	<br/>Command can choose out of two vehicles for transport.
+	<br/>
+	<br/>All vehicles are on a 5 minute respawn.
+	<br/>
+	<br/>You have no tanks available because they are to slow for this op.
 	<br/>
 	<br/><font size='18' color='#80FF00'>ENEMY FORCES</font>
-	<br/>The following units are known to be operational in the AO:
-	<br/>%2%3
+	<br/>What we know about enemy convoys is that there will be 4 different ones.
+	<br/>Each one has a platoon of MRLs that you need to destroy.
+	<br/>The more the sun rises the more armored the convoys will be.
+	<br/>If they see a heli they are going to retreat. A qrf will conver their retreat.
 	<br/>
 	<br/><font size='18' color='#80FF00'>CREDITS</font>
-	<br/>Created by <font color='#FF0080'>?</font color>
+	<br/>Created by <font color='#FF0080'>Darkbelg</font color>
 	<br/>
 	<br/>A custom-made mission for ArmA 3 and Zeus Community
 	<br/>http://zeus-community.net

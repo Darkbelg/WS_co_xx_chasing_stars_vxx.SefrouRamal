@@ -22,7 +22,7 @@ f_fnc_fillAdministration = compileFinal preprocessFileLineNumbers "f\briefing\fn
 // it in the private variable _unitSide
 
 _incAdmin = false;
-_uidList = ["76561197970695190"]; // 2600K
+_uidList = ["76561198016469048"]; // 2600K
 
 // BRIEFING: ADMIN
 // The following block of code executes only if the player is the current host
