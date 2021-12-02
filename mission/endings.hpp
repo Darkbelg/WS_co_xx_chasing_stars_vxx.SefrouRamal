@@ -1,8 +1,8 @@
 	class End1
 	{
 		title = "Mission Complete";
-		subtitle = "Well Done!";
-		description = "All objectives successfully completed.";
+		subtitle = "They will think twice about attacking us.";
+		description = "Is that sand in my shoe ?";
 		pictureBackground = "\a3\Ui_f\data\GUI\Cfg\Debriefing\debriefingBackground_co.paa";
 		picture = "\a3\Ui_f\data\GUI\Cfg\Hints\Tasks_ca.paa";
 		pictureColor[] = {1,1,1,1};

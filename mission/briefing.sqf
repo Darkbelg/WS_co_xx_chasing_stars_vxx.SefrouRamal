@@ -34,7 +34,7 @@ if (side group player != CIVILIAN) then {
 	<br/>You have no tanks available because they are to slow for this op.
 	<br/>
 	<br/><font size='18' color='#80FF00'>ENEMY FORCES</font>
-	<br/>What we know about enemy convoys is that there will be 4 different ones.
+	<br/>What we know about enemy convoys is that there will be 3 different ones.
 	<br/>Each one has a platoon of MRLs that you need to destroy.
 	<br/>The more the sun rises the more armored the convoys will be.
 	<br/>If they see a heli they are going to retreat. A qrf will conver their retreat.

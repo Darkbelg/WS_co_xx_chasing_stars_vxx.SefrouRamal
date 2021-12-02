@@ -3,7 +3,7 @@ params ["_grpLeader"];
 if(!isServer) exitWith {};
 
 {
-	if ((_grpLeader distance2D _x) <= 500) then {
+	if ((_grpLeader distance2D _x) <= 1000) then {
 		deleteVehicle (vehicle _x);
 		deleteVehicle _x;	
 	};

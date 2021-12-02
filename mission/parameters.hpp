@@ -52,7 +52,7 @@ class f_param_timeMultiplier
 	title = "Time Multiplier";
 	values[] = {1,6,12,24};
 	texts[] = {"Normal","1 Day = 4 Hours","1 Day = 2 Hours","1 Day = 1 Hour"};
-	default = 12;
+	default = 6;
 };
 class f_ParamSpacer_title2
 {
